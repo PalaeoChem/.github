@@ -8,7 +8,7 @@ Welcome to the code repository of the PaleoChem research group at Bergen Univers
 - Florian Muthreich
 - Natasha Barbolini
 - Mayke Nieuwkerk
-- Susanne Bertelsen
+- Susanne Berthelsen
 - Linn C. Krüger
 - Eline Taule Stava
 - Tonje Sætre Olsen
